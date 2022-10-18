@@ -3,7 +3,7 @@ let learning = 'Typescript'
 
 - 👋 Hi, I’m @bariss48
 - 👀 I’m interested in ``` `${interested}`  ```
-- 🌱 I’m currently learning `${learning}`
+- 🌱 I’m currently learning ``` `${learning}`  ```
 - 📫 How to reach me : you can check my website ( bariskara.software )
 
 <!---
