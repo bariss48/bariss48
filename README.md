@@ -6,6 +6,7 @@ let learning = 'Typescript'
 - 👀 I’m interested in ``` `${interested}`  ```
 - 🌱 I’m currently learning ``` `${learning}`  ```
 - 📫 How to reach me : you can check my website ( bariskara.software )
+- Portfolio : https://bariskara.software/portfolio
 
 <!---
 bariss48/bariss48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
