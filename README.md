@@ -1,6 +1,6 @@
-const interested = 'Javascript'
+const interested = "Javascript"
 
-let learning = 'Typescript'
+let learning = "Typescript"
 
 - 👋 Hi, I’m @bariss48
 - 👀 I’m interested in ``` `${interested}`  ```
