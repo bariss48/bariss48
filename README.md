@@ -70,10 +70,8 @@ about simple solutions, readable code, and shipping things people actually use.
 > [!NOTE]
 > ### 📊 A note on my contribution history
 >
-> My 2022–2024 work lives on a second account,
-> **[@bariskara48](https://github.com/bariskara48)** — the Monkedo period,
-> freelance client projects and the early thesis work were all committed there.
-> This account is where I build now.
+> My 2023–2024 work lives on a second account,
+> **[@bariskara48](https://github.com/bariskara48)**
 >
 > Contribution graphs:
 > **[2023](https://github.com/bariskara48?tab=overview&from=2023-01-01&to=2023-12-31)** ·
