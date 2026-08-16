@@ -21,7 +21,7 @@
 
 ### whoami
 
-Software engineer with 5+ years of building products end to end, from
+Software engineer with 6+ years of building products end to end, from
 distributed, queue-driven backends to the interfaces on top of them. I care
 about simple solutions, readable code, and shipping things people actually use.
 
@@ -31,6 +31,39 @@ about simple solutions, readable code, and shipping things people actually use.
   Notion, GitHub, Google Drive, Microsoft Office), and led code reviews for a
   small team.
 - 🌍 Turkey. Open to new opportunities.
+
+<!-- GitHub renders [!IMPORTANT] as a coloured, icon-marked callout, which is
+     what makes this block catch the eye instead of reading as one more
+     paragraph. -->
+> [!IMPORTANT]
+> ## 🎓 Master's Thesis
+>
+> **High-Performance Distributed Big Data Analytics Platform**<br>
+> M.Sc. in Computer Engineering, Pamukkale University, supervised by
+> Prof. Dr. Serdar İplikçi. Graduated with a 3.54 / 4.00 GPA.
+>
+> An FP-Growth / Eclat / H-Mine analytical core sitting behind a
+> RabbitMQ-decoupled worker pool. Socket.io streams live progress, a chunked
+> upload path ingests datasets up to **1 TB**, and Redis tracks job state.
+> Auth0 handles OIDC identity so datasets stay with authorized users.
+>
+> `Python` `RabbitMQ` `Redis` `Socket.io` `Auth0` `Docker`
+>
+> ### ➜ [Read the full write-up](https://bariss48.github.io/my-website/#experience)
+
+### What I reach for
+
+- **Frontend:** Next.js / React · Angular · Tailwind CSS · HTML & CSS
+- **Backend:** Node.js · Nest.js · MongoDB · RabbitMQ · Redis
+- **Languages:** JavaScript · Java · Python · C / C++
+- **Tools & infra:** Docker · Kubernetes · AWS · Git
+
+---
+
+<p align="center">
+  <sub>Full experience, education and references on
+  <a href="https://bariss48.github.io/my-website/">bariss48.github.io/my-website</a></sub>
+</p>
 
 <!-- Renders as a blue callout, distinct from the IMPORTANT block below so the
      thesis keeps its emphasis. -->
